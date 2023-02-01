@@ -14,3 +14,4 @@ userRouter.get("/", async (_req, res) => {
         res.status(500).send(error.message);
     }
  });
+ //user routes
