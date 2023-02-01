@@ -17,4 +17,3 @@ timeslotRouter.get("/:date", async (req, res) => {
    }
 });
 //timeing
-//kk
